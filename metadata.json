@@ -1,0 +1,6 @@
+{
+  "name": "The Colossal Crossword",
+  "description": "An ultra-scale cartographic crossword puzzle game featuring interlocking grids up to 160x160 squares, 1,600+ standard and cryptic clues, themed quests, interactive radar minimap, and multi-tier hints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
